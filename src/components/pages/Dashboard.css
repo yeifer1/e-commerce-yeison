@@ -1,0 +1,30 @@
+
+.navbar {
+    
+    margin-top: 0; 
+  }
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+    margin-top: 150px; 
+  }
+  
+
+  .dashboard-title {
+    font-size: 24px; 
+    font-weight: bold; 
+    margin-bottom: 20px; 
+  }
+  
+
+  .dashboard-data {
+    font-size: 18px; 
+    margin: 10px 0; 
+  }
+  
+  
+  .dashboard-data.highlight {
+    color: #007BFF; 
+    font-weight: bold;
+  }
+  

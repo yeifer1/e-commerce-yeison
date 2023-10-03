@@ -1,0 +1,50 @@
+
+.description-product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px; 
+    padding: 20px;
+  }
+  
+  .card-img {
+    max-width: 100%;
+    height: auto; 
+    margin-bottom: 20px;
+  }
+  
+  .product-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+
+  .price-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+  }
+  
+ 
+  .category,
+  .description,
+  .codigo,
+  .brand,
+  .sku,
+  .createdAt,
+  .updatedAt,
+  .Price {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .category{
+    color: darkgreen;
+  }
+  .description{
+    color: black;
+  }
+ 
+ 
+  

@@ -1,0 +1,103 @@
+
+.footer {
+    background-color: white; 
+    color: #312f2f;
+    padding: 20px 0; 
+    width: 100%; 
+    position: relative; 
+    z-index: 100; 
+    
+  }
+  
+  .footer-container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 20px; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+  }
+  
+  .footer h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+
+  
+  .footer-section {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+
+  .footer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul li a {
+    color: #3b3a3a;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .footer ul li a:hover {
+    color: #ff6600; 
+  }
+  
+  
+  .footer img {
+    max-width: 120px; 
+  }
+  
+  
+  .footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #555; 
+  }
+  
+  .footer-bottom p {
+    font-size: 14px;
+  }
+  
+
+  .footer-bottom a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .footer-bottom a:hover {
+    color: #ff6600; 
+  }
+
+ 
+.descarga-app {
+  transition: transform 0.3s ease; 
+}
+
+.descarga-app:hover {
+  transform: scale(2.2);
+}
+
+
+.large-letter {
+  font-size: 24px; 
+  
+}
+
+
+.orange-text {
+  color: orange; /* Cambia el color del texto a naranja */
+  font-size: 24px;
+
+}
+
+
+  

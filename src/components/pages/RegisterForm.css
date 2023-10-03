@@ -1,0 +1,72 @@
+
+.navbar {
+
+  margin-top: 0; 
+}
+
+.form-signin {
+  max-width: 400px; 
+  padding: 15px;
+  background: #fff; 
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  margin: 20px auto; 
+  margin: 20px auto; 
+  margin-top: 200px; 
+}
+
+
+.form-signin img.mb-4 {
+  display: block;
+  margin: 20px auto;
+  margin-top: 50px; 
+}
+
+
+.form-signin h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.form-floating input.form-control {
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+
+.form-floating label {
+  font-size: 14px;
+}
+
+
+.form-signin button[type="submit"] {
+  padding: 10px 15px;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.form-signin button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+
+.form-signin p.text-muted {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+}
