@@ -1,7 +1,8 @@
 
 import { useState, useEffect } from 'react'
 import { useAuthContext } from '../hooks/useAuthContext' 
-import { getMeUserService } from './services/userServices'
+import { getMeUserService } from '../services/userServices.js'
+
 import Navbar from '../Navbar/Navbar'
 import Footer from '../footer/Footer'
 import './Dashboard.css'
